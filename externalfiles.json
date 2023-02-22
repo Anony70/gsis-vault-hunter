@@ -12205,6 +12205,126 @@
       "size": 2171
     },
     {
+      "path": "packmenu/resources/assets/packmenu/buttons/accessibility.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/accessibility.json",
+      "sha1": "19a004b445a5c41b75daef6fa55c8ef0b3964ef9",
+      "size": 243
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/buttons/discord.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/discord.json",
+      "sha1": "420f0597012eb7de04cb621b3f99de0d98561979",
+      "size": 366
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/buttons/language.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/language.json",
+      "sha1": "42d8be3376729dbbc11206df4289c21afb87968b",
+      "size": 217
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/buttons/mods.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/mods.json",
+      "sha1": "3099c81baceb172f10ec7393b8bce1504000107c",
+      "size": 371
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/buttons/multiplayer.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/multiplayer.json",
+      "sha1": "197f0b1c21c54a3a46afdfa1c7fd32a75146d486",
+      "size": 346
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/buttons/options.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/options.json",
+      "sha1": "4ad2583bba05b9e1afab7be6a598512008d59e77",
+      "size": 337
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/buttons/quit.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/quit.json",
+      "sha1": "4fe787d360c52aa63b927fc79d3a54b82f7544ae",
+      "size": 306
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/buttons/singleplayer.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/singleplayer.json",
+      "sha1": "7a017f2bf376ff2a558c0e86878c2040bc80ddf3",
+      "size": 347
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/buttons/vh.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/buttons/vh.json",
+      "sha1": "0ca60d0df1874271563caa73d981a18935c5a1bf",
+      "size": 351
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/lang/en_us.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/lang/en_us.json",
+      "sha1": "d800aa43d274c4f68c77c10c029dcd80c1fa3789",
+      "size": 130
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/texts/supporters.txt",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/texts/supporters.txt",
+      "sha1": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+      "size": 4
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/textures/gui/accessibility.png",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/textures/gui/accessibility.png",
+      "sha1": "24469219a9ffd4a019fb1aa72a818818da0df3c4",
+      "size": 753
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/textures/gui/background.png",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/textures/gui/background.png",
+      "sha1": "92d728654f4486434a2210268d5ed8deeba1a4fd",
+      "size": 1068801
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/textures/gui/logo.png",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/textures/gui/logo.png",
+      "sha1": "bfbb08d938f50e895e2d03e8175c64d3be0a4668",
+      "size": 2849817
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/textures/gui/test-splash.png",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/textures/gui/test-splash.png",
+      "sha1": "524410d6b5c689c1bc75189cd3cbb345979cc8bb",
+      "size": 1061966
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/textures/gui/vhbutton.png",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/textures/gui/vhbutton.png",
+      "sha1": "232510fcff6b07eec9fd5dc3f1ee2983f3bb84bb",
+      "size": 703
+    },
+    {
+      "path": "packmenu/resources/assets/packmenu/textures/gui/widgets.png",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/assets/packmenu/textures/gui/widgets.png",
+      "sha1": "65e583efd23c36a12d37009c6de137535d151782",
+      "size": 12692
+    },
+    {
+      "path": "packmenu/resources/pack.mcmeta",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/pack.mcmeta",
+      "sha1": "0213e133c0368d72b60270131d5d30568495308d",
+      "size": 101
+    },
+    {
+      "path": "packmenu/resources/pack.png",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/pack.png",
+      "sha1": "1415abbf67b184aa6b34cea887dbae10cba024dc",
+      "size": 38219
+    },
+    {
+      "path": "packmenu/resources/packmenu.cfg",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/packmenu/resources/packmenu.cfg",
+      "sha1": "49fa717291efd043de019b5c4465e96fb8d830e1",
+      "size": 4169
+    },
+    {
       "path": "patchouli_books/the_vault_main_guide/book.json",
       "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/patchouli_books/the_vault_main_guide/book.json",
       "sha1": "4cf9bba9f20e1e5360d13ae97759b3efdd200b25",
