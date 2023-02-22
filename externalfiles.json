@@ -11552,7 +11552,7 @@
     },
     {
       "path": "config/the_vault/raid original_not_final_vault.json",
-      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/config/the_vault/raid original_not_final_vault.json",
+      "downloadURL": "https://raw.githubusercontent.com/Anony70/gsis-vault-hunter/main/config/the_vault/raid%20original_not_final_vault.json",
       "sha1": "f92fa9783f770b247dfaaa527041c5c8788c2bec",
       "size": 29107
     },
