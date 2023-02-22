@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Wieghant",
+      "uniqueId": "5f9c2daf-6d3c-4fd3-9e2b-5288d39ff644"
+    },
+    "time": 1677018385846,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/EXG487ewFv"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Wieghant",
+      "uniqueId": "5f9c2daf-6d3c-4fd3-9e2b-5288d39ff644"
+    },
+    "time": 1677018229622,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/tjXde0NRmL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Wieghant",
+      "uniqueId": "5f9c2daf-6d3c-4fd3-9e2b-5288d39ff644"
+    },
+    "time": 1676739867049,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Qv5lC7nSMo"
+    }
+  }
+]
