@@ -1,0 +1,1 @@
+dynamiclightsreforged-1.18.2_v1.3.3.jar,oculus-1.4.3a.jar,rubidium_extras-1.18.2_v1.3.2.jar,BetterF3-3.0.0-Forge-1.18.2.jar,light-overlay-6.0.5-forge.jar,3dskinlayers-forge-1.5.2-mc1.18.2.jar
