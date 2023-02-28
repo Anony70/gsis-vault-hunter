@@ -137,5 +137,5 @@ Biome selectors may be inlined or may call a file from "this_file_parent_directo
 	   Higher numbers do NOT increase the provider's size.
 	   Weight "0" disables this provider and all its entries.
 	*/
-	"weight": 1
+	"weight": 2
 }

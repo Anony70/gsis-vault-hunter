@@ -21,3 +21,12 @@ patchouli_data.json
 usercache.json
 usernamecache.json
 .cfp
+config/rubidium-mixins.properties
+config/rubidium-options.json
+config/rubidium_extras.toml
+config/byg/backups
+config/jade
+config/spark
+config/skinlayers.json
+config/MouseTweaks.cfg
+config/dynamic_lights_reforged.toml

@@ -323,7 +323,7 @@
 			perChunk = 5
 			#Maximum number of blocks in a normal fluorite vein.
 			#Range: 1 ~ 64
-			maxVeinSize = 5
+			maxVeinSize = 10
 			#Chance that blocks that are directly exposed to air in a normal fluorite vein are not placed.
 			#Range: 0.0 ~ 1.0
 			discardChanceOnAirExposure = 0.0
@@ -340,9 +340,9 @@
 				#Above Bottom -> y = minY + value
 				#Below Top -> y = depth - 1 + minY - value
 				#Allowed Values: ABSOLUTE, ABOVE_BOTTOM, BELOW_TOP
-				type = "ABOVE_BOTTOM"
+				type = "ABSOLUTE"
 				#Value used for calculating y for the anchor based on the type.
-				value = 0
+				value = -20
 
 			#Maximum (inclusive) height anchor for normal fluorite veins.
 			[world_generation.fluorite.normal.maxInclusive]
@@ -364,7 +364,7 @@
 			perChunk = 3
 			#Maximum number of blocks in a buried fluorite vein.
 			#Range: 1 ~ 64
-			maxVeinSize = 13
+			maxVeinSize = 18
 			#Chance that blocks that are directly exposed to air in a buried fluorite vein are not placed.
 			#Range: 0.0 ~ 1.0
 			discardChanceOnAirExposure = 1.0
@@ -381,9 +381,9 @@
 				#Above Bottom -> y = minY + value
 				#Below Top -> y = depth - 1 + minY - value
 				#Allowed Values: ABSOLUTE, ABOVE_BOTTOM, BELOW_TOP
-				type = "ABOVE_BOTTOM"
+				type = "ABSOLUTE"
 				#Value used for calculating y for the anchor based on the type.
-				value = 0
+				value = -20
 
 			#Maximum (inclusive) height anchor for buried fluorite veins.
 			[world_generation.fluorite.buried.maxInclusive]
@@ -410,7 +410,7 @@
 			perChunk = 8
 			#Maximum number of blocks in a normal lead vein.
 			#Range: 1 ~ 64
-			maxVeinSize = 9
+			maxVeinSize = 18
 			#Chance that blocks that are directly exposed to air in a normal lead vein are not placed.
 			#Range: 0.0 ~ 1.0
 			discardChanceOnAirExposure = 0.25
@@ -427,7 +427,7 @@
 				#Above Bottom -> y = minY + value
 				#Below Top -> y = depth - 1 + minY - value
 				#Allowed Values: ABSOLUTE, ABOVE_BOTTOM, BELOW_TOP
-				type = "ABOVE_BOTTOM"
+				type = "Absolute"
 				#Value used for calculating y for the anchor based on the type.
 				value = -24
 
