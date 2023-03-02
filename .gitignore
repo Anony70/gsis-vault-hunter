@@ -9,8 +9,8 @@ playerSnapshots
 resourcepacks
 saves
 schematics
-XaeroWaypoints
-XaeroWorldMap
+XaeroWaypoints/
+XaeroWorldMap/
 1.18.2.json
 1.18.2-forge-40.1.93.json
 client.jar
