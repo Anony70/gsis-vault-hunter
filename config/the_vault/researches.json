@@ -6,11 +6,11 @@
       ],
       "restrictions": {
         "restricts": {
-          "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "HITTABILITY": true,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+          "ENTITY_INTERACTABILITY": true
         }
       },
       "name": "Ender Storage",
@@ -25,9 +25,9 @@
         "restricts": {
           "HITTABILITY": false,
           "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "USABILITY": true,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+          "ENTITY_INTERACTABILITY": true
         }
       },
       "name": "Hexcasting",
@@ -42,9 +42,9 @@
         "restricts": {
           "HITTABILITY": false,
           "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "USABILITY": true,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+          "ENTITY_INTERACTABILITY": true
         }
       },
       "name": "Ars Nouveau",
@@ -58,10 +58,10 @@
       "restrictions": {
         "restricts": {
           "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+          "ENTITY_INTERACTABILITY": true
         }
       },
       "name": "Occultism",
@@ -75,10 +75,10 @@
       "restrictions": {
         "restricts": {
           "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+          "ENTITY_INTERACTABILITY": true
         }
       },
       "name": "Computer Craft",
@@ -92,10 +92,10 @@
       "restrictions": {
         "restricts": {
           "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": false,
-          "USABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": false
+          "ENTITY_INTERACTABILITY": true
         }
       },
       "name": "Blood Magic",
