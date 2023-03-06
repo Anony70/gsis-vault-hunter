@@ -31,3 +31,4 @@ config/skinlayers.json
 config/MouseTweaks.cfg
 config/dynamic_lights_reforged.toml
 config/the_vault/
+config/the_vault/vault_general.json
