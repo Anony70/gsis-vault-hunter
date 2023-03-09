@@ -852,6 +852,9 @@ craftingTable.remove(<item:sophisticatedbackpacks:advanced_restock_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:deposit_upgrade>);
 craftingTable.remove(<item:sophisticatedbackpacks:advanced_deposit_upgrade>);
 
+//Bucolicraces
+craftingTable.removeByModid("bucolicraces");
+
 // Vault
 craftingTable.remove(<item:the_vault:vault_artisan_station>);
 craftingTable.remove(<item:the_vault:vault_forge>);

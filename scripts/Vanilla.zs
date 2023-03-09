@@ -291,3 +291,7 @@ craftingTable.addShaped("pebble_2_troll", <item:twigs:pebble> *64, [
     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
     [<item:the_vault:black_chromatic_steel_block>, <item:the_vault:pogging_jewel>, <item:the_vault:black_chromatic_steel_block>]
 ]);
+
+craftingTable.addShapeless("bone_block_to_bones", <item:minecraft:bone> * 3, [<item:minecraft:bone_block>]);
+craftingTable.addShapeless("bone_meals_to_bone", <item:minecraft:bone>, [<item:minecraft:bone_meal>,<item:minecraft:bone_meal>,<item:minecraft:bone_meal>]);
+craftingTable.addShapeless("bones_to_bone_block", <item:minecraft:bone_block>, [<item:minecraft:bone>,<item:minecraft:bone>,<item:minecraft:bone>]);
