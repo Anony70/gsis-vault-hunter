@@ -8,7 +8,7 @@ import crafttweaker.api.text.MutableComponent;
 // 1 sec = 20 ticks
 // 1 min = 1200 ticks
 // 1 hour = 72000 ticks
-val cooldownInTicks = 300;
+val cooldownInTicks = 1728000;
 val cooldownItem = <item:origins:orb_of_origin>;
 var prefixText = new TextComponent("[Origin] ").setStyle(<constant:formatting:yellow>);
 var successMessage = prefixText.copy() + new TextComponent("Successfully changed your origin!").setStyle(<constant:formatting:green>) as MutableComponent;
