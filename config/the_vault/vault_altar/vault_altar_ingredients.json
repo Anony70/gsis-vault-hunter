@@ -145,6 +145,288 @@
               },
               {
                 "item": "minecraft:dark_oak_log"
+              },
+              {
+                "item": "byg:aspen_log"
+              },
+              {
+                "item": "byg:stripped_aspen_log"
+              },
+              {
+                "item": "byg:baobab_log"
+              },
+              {
+                "item": "byg:stripped_baobab_log"
+              },
+              {
+                "item": "byg:blue_enchanted_log"
+              },
+              {
+                "item": "byg:stripped_blue_enchanted_log"
+              },
+              {
+                "item": "byg:cherry_log"
+              },
+              {
+                "item": "byg:stripped_cherry_log"
+              },
+              {
+                "item": "byg:cika_log"
+              },
+              {
+                "item": "byg:stripped_cika_log"
+              },
+              {
+                "item": "byg:cypress_log"
+              },
+              {
+                "item": "byg:stripped_cypress_log"
+              },
+              {
+                "item": "byg:ebony_log"
+              },
+              {
+                "item": "byg:stripped_ebony_log"
+              },
+              {
+                "item": "byg:ether_log"
+              },
+              {
+                "item": "byg:stripped_ether_log"
+              },
+              {
+                "item": "byg:fir_log"
+              },
+              {
+                "item": "byg:stripped_fir_log"
+              },
+              {
+                "item": "byg:green_enchanted_log"
+              },
+              {
+                "item": "byg:stripped_green_enchanted_log"
+              },
+              {
+                "item": "byg:holly_log"
+              },
+              {
+                "item": "byg:stripped_holly_log"
+              },
+              {
+                "item": "byg:jacaranda_log"
+              },
+              {
+                "item": "byg:stripped_jacaranda_log"
+              },
+              {
+                "item": "byg:lament_log"
+              },
+              {
+                "item": "byg:stripped_lament_log"
+              },
+              {
+                "item": "byg:mahogany_log"
+              },
+              {
+                "item": "byg:stripped_mahogany_log"
+              },
+              {
+                "item": "byg:mangrove_log"
+              },
+              {
+                "item": "byg:stripped_mangrove_log"
+              },
+              {
+                "item": "byg:maple_log"
+              },
+              {
+                "item": "byg:stripped_maple_log"
+              },
+              {
+                "item": "byg:imbued_nightshade_log"
+              },
+              {
+                "item": "byg:nightshade_log"
+              },
+              {
+                "item": "byg:stripped_nightshade_log"
+              },
+              {
+                "item": "byg:palm_log"
+              },
+              {
+                "item": "byg:stripped_palm_log"
+              },
+              {
+                "item": "byg:palo_verde_log"
+              },
+              {
+                "item": "byg:stripped_palo_verde_log"
+              },
+              {
+                "item": "byg:pine_log"
+              },
+              {
+                "item": "byg:stripped_pine_log"
+              },
+              {
+                "item": "byg:rainbow_eucalyptus_log"
+              },
+              {
+                "item": "byg:stripped_rainbow_eucalyptus_log"
+              },
+              {
+                "item": "byg:redwood_log"
+              },
+              {
+                "item": "byg:stripped_redwood_log"
+              },
+              {
+                "item": "byg:skyris_log"
+              },
+              {
+                "item": "byg:stripped_skyris_log"
+              },
+              {
+                "item": "byg:willow_log"
+              },
+              {
+                "item": "byg:stripped_willow_log"
+              },
+              {
+                "item": "byg:witch_hazel_log"
+              },
+              {
+                "item": "byg:stripped_witch_hazel_log"
+              },
+              {
+                "item": "byg:zelkova_log"
+              },
+              {
+                "item": "byg:stripped_zelkova_log"
+              },
+              {
+                "item": "byg:withering_oak_log"
+              },
+              {
+                "item": "ars_elemental:yellow_archwood_log"
+              },
+              {
+                "item": "ars_elemental:stripped_yellow_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:blue_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_blue_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:purple_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_purple_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:green_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_green_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:red_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_red_archwood_log"
+              },
+              {
+                "item": "hexerei:mahogany_log"
+              },
+              {
+                "item": "hexerei:stripped_mahogany_log"
+              },
+              {
+                "item": "hexerei:willow_log"
+              },
+              {
+                "item": "hexerei:stripped_willow_log"
+              },
+              {
+                "item": "occultism:otherworld_log_natural"
+              },
+              {
+                "item": "ecologics:coconut_log"
+              },
+              {
+                "item": "ecologics:stripped_coconut_log"
+              },
+              {
+                "item": "ecologics:walnut_log"
+              },
+              {
+                "item": "ecologics:stripped_walnut_log"
+              },
+              {
+                "item": "ecologics:azalea_log"
+              },
+              {
+                "item": "ecologics:flowering_azalea_log"
+              },
+              {
+                "item": "ecologics:stripped_azalea_log"
+              },
+              {
+                "item": "hexcasting:akashic_log"
+              },
+              {
+                "item": "hexcasting:akashic_log_stripped"
+              },
+              {
+                "item": "botania:livingwood_log"
+              },
+              {
+                "item": "botania:stripped_livingwood_log"
+              },
+              {
+                "item": "botania:glimmering_livingwood_log"
+              },
+              {
+                "item": "botania:glimmering_stripped_livingwood_log"
+              },
+              {
+                "item": "botania:dreamwood_log"
+              },
+              {
+                "item": "botania:stripped_dreamwood_log"
+              },
+              {
+                "item": "botania:glimmering_dreamwood_log"
+              },
+              {
+                "item": "botania:glimmering_stripped_dreamwood_log"
+              },
+              {
+                "item": "malum:runewood_log"
+              },
+              {
+                "item": "malum:stripped_runewood_log"
+              },
+              {
+                "item": "malum:revealed_runewood_log"
+              },
+              {
+                "item": "malum:exposed_runewood_log"
+              },
+              {
+                "item": "malum:soulwood_log"
+              },
+              {
+                "item": "malum:stripped_soulwood_log"
+              },
+              {
+                "item": "malum:revealed_soulwood_log"
+              },
+              {
+                "item": "malum:exposed_soulwood_log"
               }
             ],
             "amount": {
@@ -335,6 +617,225 @@
               },
               {
                 "item": "minecraft:flowering_azalea_leaves"
+              },
+              {
+                "item": "byg:aspen_leaves"
+              },
+              {
+                "item": "byg:baobab_leaves"
+              },
+              {
+                "item": "byg:blue_enchanted_leaves"
+              },
+              {
+                "item": "byg:pink_cherry_leaves"
+              },
+              {
+                "item": "byg:white_cherry_leaves"
+              },
+              {
+                "item": "byg:cika_leaves"
+              },
+              {
+                "item": "byg:cypress_leaves"
+              },
+              {
+                "item": "byg:ebony_leaves"
+              },
+              {
+                "item": "byg:ether_leaves"
+              },
+              {
+                "item": "byg:fir_leaves"
+              },
+              {
+                "item": "byg:green_enchanted_leaves"
+              },
+              {
+                "item": "byg:holly_berry_leaves"
+              },
+              {
+                "item": "byg:holly_leaves"
+              },
+              {
+                "item": "byg:jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_jacaranda_leaves"
+              },
+              {
+                "item": "byg:indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:lament_leaves"
+              },
+              {
+                "item": "byg:mahogany_leaves"
+              },
+              {
+                "item": "byg:mangrove_leaves"
+              },
+              {
+                "item": "byg:maple_leaves"
+              },
+              {
+                "item": "byg:red_maple_leaves"
+              },
+              {
+                "item": "byg:silver_maple_leaves"
+              },
+              {
+                "item": "byg:flowering_nightshade_leaves"
+              },
+              {
+                "item": "byg:nightshade_leaves"
+              },
+              {
+                "item": "byg:palm_leaves"
+              },
+              {
+                "item": "byg:flowering_palo_verde_leaves"
+              },
+              {
+                "item": "byg:palo_verde_leaves"
+              },
+              {
+                "item": "byg:pine_leaves"
+              },
+              {
+                "item": "byg:rainbow_eucalyptus_leaves"
+              },
+              {
+                "item": "byg:redwood_leaves"
+              },
+              {
+                "item": "byg:green_apple_skyris_leaves"
+              },
+              {
+                "item": "byg:skyris_leaves"
+              },
+              {
+                "item": "byg:willow_leaves"
+              },
+              {
+                "item": "byg:blooming_witch_hazel_leaves"
+              },
+              {
+                "item": "byg:witch_hazel_leaves"
+              },
+              {
+                "item": "byg:zelkova_leaves"
+              },
+              {
+                "item": "byg:withering_oak_leaves"
+              },
+              {
+                "item": "byg:araucaria_leaves"
+              },
+              {
+                "item": "byg:blue_spruce_leaves"
+              },
+              {
+                "item": "byg:brown_birch_leaves"
+              },
+              {
+                "item": "byg:brown_oak_leaves"
+              },
+              {
+                "item": "byg:brown_zelkova_leaves"
+              },
+              {
+                "item": "byg:joshua_leaves"
+              },
+              {
+                "item": "byg:ripe_joshua_leaves"
+              },
+              {
+                "item": "byg:orange_birch_leaves"
+              },
+              {
+                "item": "byg:orange_oak_leaves"
+              },
+              {
+                "item": "byg:orange_spruce_leaves"
+              },
+              {
+                "item": "byg:ripe_orchard_leaves"
+              },
+              {
+                "item": "byg:flowering_orchard_leaves"
+              },
+              {
+                "item": "byg:orchard_leaves"
+              },
+              {
+                "item": "byg:red_birch_leaves"
+              },
+              {
+                "item": "byg:red_oak_leaves"
+              },
+              {
+                "item": "byg:red_spruce_leaves"
+              },
+              {
+                "item": "byg:yellow_birch_leaves"
+              },
+              {
+                "item": "byg:yellow_spruce_leaves"
+              },
+              {
+                "item": "byg:firecracker_leaves"
+              },
+              {
+                "item": "hexcasting:akashic_leaves1"
+              },
+              {
+                "item": "hexcasting:akashic_leaves2"
+              },
+              {
+                "item": "hexcasting:akashic_leaves3"
+              },
+              {
+                "item": "ars_elemental:yellow_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:blue_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:purple_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:green_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:red_archwood_leaves"
+              },
+              {
+                "item": "ecologics:coconut_leaves"
+              },
+              {
+                "item": "ecologics:walnut_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves_natural"
+              },
+              {
+                "item": "hexerei:mahogany_leaves"
+              },
+              {
+                "item": "hexerei:willow_leaves"
+              },
+              {
+                "item": "malum:runewood_leaves"
+              },
+              {
+                "item": "malum:soulwood_leaves"
               }
             ],
             "amount": {
@@ -617,6 +1118,288 @@
               },
               {
                 "item": "minecraft:dark_oak_log"
+              },
+              {
+                "item": "byg:aspen_log"
+              },
+              {
+                "item": "byg:stripped_aspen_log"
+              },
+              {
+                "item": "byg:baobab_log"
+              },
+              {
+                "item": "byg:stripped_baobab_log"
+              },
+              {
+                "item": "byg:blue_enchanted_log"
+              },
+              {
+                "item": "byg:stripped_blue_enchanted_log"
+              },
+              {
+                "item": "byg:cherry_log"
+              },
+              {
+                "item": "byg:stripped_cherry_log"
+              },
+              {
+                "item": "byg:cika_log"
+              },
+              {
+                "item": "byg:stripped_cika_log"
+              },
+              {
+                "item": "byg:cypress_log"
+              },
+              {
+                "item": "byg:stripped_cypress_log"
+              },
+              {
+                "item": "byg:ebony_log"
+              },
+              {
+                "item": "byg:stripped_ebony_log"
+              },
+              {
+                "item": "byg:ether_log"
+              },
+              {
+                "item": "byg:stripped_ether_log"
+              },
+              {
+                "item": "byg:fir_log"
+              },
+              {
+                "item": "byg:stripped_fir_log"
+              },
+              {
+                "item": "byg:green_enchanted_log"
+              },
+              {
+                "item": "byg:stripped_green_enchanted_log"
+              },
+              {
+                "item": "byg:holly_log"
+              },
+              {
+                "item": "byg:stripped_holly_log"
+              },
+              {
+                "item": "byg:jacaranda_log"
+              },
+              {
+                "item": "byg:stripped_jacaranda_log"
+              },
+              {
+                "item": "byg:lament_log"
+              },
+              {
+                "item": "byg:stripped_lament_log"
+              },
+              {
+                "item": "byg:mahogany_log"
+              },
+              {
+                "item": "byg:stripped_mahogany_log"
+              },
+              {
+                "item": "byg:mangrove_log"
+              },
+              {
+                "item": "byg:stripped_mangrove_log"
+              },
+              {
+                "item": "byg:maple_log"
+              },
+              {
+                "item": "byg:stripped_maple_log"
+              },
+              {
+                "item": "byg:imbued_nightshade_log"
+              },
+              {
+                "item": "byg:nightshade_log"
+              },
+              {
+                "item": "byg:stripped_nightshade_log"
+              },
+              {
+                "item": "byg:palm_log"
+              },
+              {
+                "item": "byg:stripped_palm_log"
+              },
+              {
+                "item": "byg:palo_verde_log"
+              },
+              {
+                "item": "byg:stripped_palo_verde_log"
+              },
+              {
+                "item": "byg:pine_log"
+              },
+              {
+                "item": "byg:stripped_pine_log"
+              },
+              {
+                "item": "byg:rainbow_eucalyptus_log"
+              },
+              {
+                "item": "byg:stripped_rainbow_eucalyptus_log"
+              },
+              {
+                "item": "byg:redwood_log"
+              },
+              {
+                "item": "byg:stripped_redwood_log"
+              },
+              {
+                "item": "byg:skyris_log"
+              },
+              {
+                "item": "byg:stripped_skyris_log"
+              },
+              {
+                "item": "byg:willow_log"
+              },
+              {
+                "item": "byg:stripped_willow_log"
+              },
+              {
+                "item": "byg:witch_hazel_log"
+              },
+              {
+                "item": "byg:stripped_witch_hazel_log"
+              },
+              {
+                "item": "byg:zelkova_log"
+              },
+              {
+                "item": "byg:stripped_zelkova_log"
+              },
+              {
+                "item": "byg:withering_oak_log"
+              },
+              {
+                "item": "ars_elemental:yellow_archwood_log"
+              },
+              {
+                "item": "ars_elemental:stripped_yellow_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:blue_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_blue_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:purple_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_purple_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:green_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_green_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:red_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_red_archwood_log"
+              },
+              {
+                "item": "hexerei:mahogany_log"
+              },
+              {
+                "item": "hexerei:stripped_mahogany_log"
+              },
+              {
+                "item": "hexerei:willow_log"
+              },
+              {
+                "item": "hexerei:stripped_willow_log"
+              },
+              {
+                "item": "occultism:otherworld_log_natural"
+              },
+              {
+                "item": "ecologics:coconut_log"
+              },
+              {
+                "item": "ecologics:stripped_coconut_log"
+              },
+              {
+                "item": "ecologics:walnut_log"
+              },
+              {
+                "item": "ecologics:stripped_walnut_log"
+              },
+              {
+                "item": "ecologics:azalea_log"
+              },
+              {
+                "item": "ecologics:flowering_azalea_log"
+              },
+              {
+                "item": "ecologics:stripped_azalea_log"
+              },
+              {
+                "item": "hexcasting:akashic_log"
+              },
+              {
+                "item": "hexcasting:akashic_log_stripped"
+              },
+              {
+                "item": "botania:livingwood_log"
+              },
+              {
+                "item": "botania:stripped_livingwood_log"
+              },
+              {
+                "item": "botania:glimmering_livingwood_log"
+              },
+              {
+                "item": "botania:glimmering_stripped_livingwood_log"
+              },
+              {
+                "item": "botania:dreamwood_log"
+              },
+              {
+                "item": "botania:stripped_dreamwood_log"
+              },
+              {
+                "item": "botania:glimmering_dreamwood_log"
+              },
+              {
+                "item": "botania:glimmering_stripped_dreamwood_log"
+              },
+              {
+                "item": "malum:runewood_log"
+              },
+              {
+                "item": "malum:stripped_runewood_log"
+              },
+              {
+                "item": "malum:revealed_runewood_log"
+              },
+              {
+                "item": "malum:exposed_runewood_log"
+              },
+              {
+                "item": "malum:soulwood_log"
+              },
+              {
+                "item": "malum:stripped_soulwood_log"
+              },
+              {
+                "item": "malum:revealed_soulwood_log"
+              },
+              {
+                "item": "malum:exposed_soulwood_log"
               }
             ],
             "amount": {
@@ -1401,6 +2184,225 @@
               },
               {
                 "item": "minecraft:flowering_azalea_leaves"
+              },
+              {
+                "item": "byg:aspen_leaves"
+              },
+              {
+                "item": "byg:baobab_leaves"
+              },
+              {
+                "item": "byg:blue_enchanted_leaves"
+              },
+              {
+                "item": "byg:pink_cherry_leaves"
+              },
+              {
+                "item": "byg:white_cherry_leaves"
+              },
+              {
+                "item": "byg:cika_leaves"
+              },
+              {
+                "item": "byg:cypress_leaves"
+              },
+              {
+                "item": "byg:ebony_leaves"
+              },
+              {
+                "item": "byg:ether_leaves"
+              },
+              {
+                "item": "byg:fir_leaves"
+              },
+              {
+                "item": "byg:green_enchanted_leaves"
+              },
+              {
+                "item": "byg:holly_berry_leaves"
+              },
+              {
+                "item": "byg:holly_leaves"
+              },
+              {
+                "item": "byg:jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_jacaranda_leaves"
+              },
+              {
+                "item": "byg:indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:lament_leaves"
+              },
+              {
+                "item": "byg:mahogany_leaves"
+              },
+              {
+                "item": "byg:mangrove_leaves"
+              },
+              {
+                "item": "byg:maple_leaves"
+              },
+              {
+                "item": "byg:red_maple_leaves"
+              },
+              {
+                "item": "byg:silver_maple_leaves"
+              },
+              {
+                "item": "byg:flowering_nightshade_leaves"
+              },
+              {
+                "item": "byg:nightshade_leaves"
+              },
+              {
+                "item": "byg:palm_leaves"
+              },
+              {
+                "item": "byg:flowering_palo_verde_leaves"
+              },
+              {
+                "item": "byg:palo_verde_leaves"
+              },
+              {
+                "item": "byg:pine_leaves"
+              },
+              {
+                "item": "byg:rainbow_eucalyptus_leaves"
+              },
+              {
+                "item": "byg:redwood_leaves"
+              },
+              {
+                "item": "byg:green_apple_skyris_leaves"
+              },
+              {
+                "item": "byg:skyris_leaves"
+              },
+              {
+                "item": "byg:willow_leaves"
+              },
+              {
+                "item": "byg:blooming_witch_hazel_leaves"
+              },
+              {
+                "item": "byg:witch_hazel_leaves"
+              },
+              {
+                "item": "byg:zelkova_leaves"
+              },
+              {
+                "item": "byg:withering_oak_leaves"
+              },
+              {
+                "item": "byg:araucaria_leaves"
+              },
+              {
+                "item": "byg:blue_spruce_leaves"
+              },
+              {
+                "item": "byg:brown_birch_leaves"
+              },
+              {
+                "item": "byg:brown_oak_leaves"
+              },
+              {
+                "item": "byg:brown_zelkova_leaves"
+              },
+              {
+                "item": "byg:joshua_leaves"
+              },
+              {
+                "item": "byg:ripe_joshua_leaves"
+              },
+              {
+                "item": "byg:orange_birch_leaves"
+              },
+              {
+                "item": "byg:orange_oak_leaves"
+              },
+              {
+                "item": "byg:orange_spruce_leaves"
+              },
+              {
+                "item": "byg:ripe_orchard_leaves"
+              },
+              {
+                "item": "byg:flowering_orchard_leaves"
+              },
+              {
+                "item": "byg:orchard_leaves"
+              },
+              {
+                "item": "byg:red_birch_leaves"
+              },
+              {
+                "item": "byg:red_oak_leaves"
+              },
+              {
+                "item": "byg:red_spruce_leaves"
+              },
+              {
+                "item": "byg:yellow_birch_leaves"
+              },
+              {
+                "item": "byg:yellow_spruce_leaves"
+              },
+              {
+                "item": "byg:firecracker_leaves"
+              },
+              {
+                "item": "hexcasting:akashic_leaves1"
+              },
+              {
+                "item": "hexcasting:akashic_leaves2"
+              },
+              {
+                "item": "hexcasting:akashic_leaves3"
+              },
+              {
+                "item": "ars_elemental:yellow_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:blue_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:purple_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:green_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:red_archwood_leaves"
+              },
+              {
+                "item": "ecologics:coconut_leaves"
+              },
+              {
+                "item": "ecologics:walnut_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves_natural"
+              },
+              {
+                "item": "hexerei:mahogany_leaves"
+              },
+              {
+                "item": "hexerei:willow_leaves"
+              },
+              {
+                "item": "malum:runewood_leaves"
+              },
+              {
+                "item": "malum:soulwood_leaves"
               }
             ],
             "amount": {
@@ -1977,6 +2979,288 @@
               },
               {
                 "item": "minecraft:dark_oak_log"
+              },
+              {
+                "item": "byg:aspen_log"
+              },
+              {
+                "item": "byg:stripped_aspen_log"
+              },
+              {
+                "item": "byg:baobab_log"
+              },
+              {
+                "item": "byg:stripped_baobab_log"
+              },
+              {
+                "item": "byg:blue_enchanted_log"
+              },
+              {
+                "item": "byg:stripped_blue_enchanted_log"
+              },
+              {
+                "item": "byg:cherry_log"
+              },
+              {
+                "item": "byg:stripped_cherry_log"
+              },
+              {
+                "item": "byg:cika_log"
+              },
+              {
+                "item": "byg:stripped_cika_log"
+              },
+              {
+                "item": "byg:cypress_log"
+              },
+              {
+                "item": "byg:stripped_cypress_log"
+              },
+              {
+                "item": "byg:ebony_log"
+              },
+              {
+                "item": "byg:stripped_ebony_log"
+              },
+              {
+                "item": "byg:ether_log"
+              },
+              {
+                "item": "byg:stripped_ether_log"
+              },
+              {
+                "item": "byg:fir_log"
+              },
+              {
+                "item": "byg:stripped_fir_log"
+              },
+              {
+                "item": "byg:green_enchanted_log"
+              },
+              {
+                "item": "byg:stripped_green_enchanted_log"
+              },
+              {
+                "item": "byg:holly_log"
+              },
+              {
+                "item": "byg:stripped_holly_log"
+              },
+              {
+                "item": "byg:jacaranda_log"
+              },
+              {
+                "item": "byg:stripped_jacaranda_log"
+              },
+              {
+                "item": "byg:lament_log"
+              },
+              {
+                "item": "byg:stripped_lament_log"
+              },
+              {
+                "item": "byg:mahogany_log"
+              },
+              {
+                "item": "byg:stripped_mahogany_log"
+              },
+              {
+                "item": "byg:mangrove_log"
+              },
+              {
+                "item": "byg:stripped_mangrove_log"
+              },
+              {
+                "item": "byg:maple_log"
+              },
+              {
+                "item": "byg:stripped_maple_log"
+              },
+              {
+                "item": "byg:imbued_nightshade_log"
+              },
+              {
+                "item": "byg:nightshade_log"
+              },
+              {
+                "item": "byg:stripped_nightshade_log"
+              },
+              {
+                "item": "byg:palm_log"
+              },
+              {
+                "item": "byg:stripped_palm_log"
+              },
+              {
+                "item": "byg:palo_verde_log"
+              },
+              {
+                "item": "byg:stripped_palo_verde_log"
+              },
+              {
+                "item": "byg:pine_log"
+              },
+              {
+                "item": "byg:stripped_pine_log"
+              },
+              {
+                "item": "byg:rainbow_eucalyptus_log"
+              },
+              {
+                "item": "byg:stripped_rainbow_eucalyptus_log"
+              },
+              {
+                "item": "byg:redwood_log"
+              },
+              {
+                "item": "byg:stripped_redwood_log"
+              },
+              {
+                "item": "byg:skyris_log"
+              },
+              {
+                "item": "byg:stripped_skyris_log"
+              },
+              {
+                "item": "byg:willow_log"
+              },
+              {
+                "item": "byg:stripped_willow_log"
+              },
+              {
+                "item": "byg:witch_hazel_log"
+              },
+              {
+                "item": "byg:stripped_witch_hazel_log"
+              },
+              {
+                "item": "byg:zelkova_log"
+              },
+              {
+                "item": "byg:stripped_zelkova_log"
+              },
+              {
+                "item": "byg:withering_oak_log"
+              },
+              {
+                "item": "ars_elemental:yellow_archwood_log"
+              },
+              {
+                "item": "ars_elemental:stripped_yellow_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:blue_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_blue_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:purple_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_purple_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:green_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_green_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:red_archwood_log"
+              },
+              {
+                "item": "ars_nouveau:stripped_red_archwood_log"
+              },
+              {
+                "item": "hexerei:mahogany_log"
+              },
+              {
+                "item": "hexerei:stripped_mahogany_log"
+              },
+              {
+                "item": "hexerei:willow_log"
+              },
+              {
+                "item": "hexerei:stripped_willow_log"
+              },
+              {
+                "item": "occultism:otherworld_log_natural"
+              },
+              {
+                "item": "ecologics:coconut_log"
+              },
+              {
+                "item": "ecologics:stripped_coconut_log"
+              },
+              {
+                "item": "ecologics:walnut_log"
+              },
+              {
+                "item": "ecologics:stripped_walnut_log"
+              },
+              {
+                "item": "ecologics:azalea_log"
+              },
+              {
+                "item": "ecologics:flowering_azalea_log"
+              },
+              {
+                "item": "ecologics:stripped_azalea_log"
+              },
+              {
+                "item": "hexcasting:akashic_log"
+              },
+              {
+                "item": "hexcasting:akashic_log_stripped"
+              },
+              {
+                "item": "botania:livingwood_log"
+              },
+              {
+                "item": "botania:stripped_livingwood_log"
+              },
+              {
+                "item": "botania:glimmering_livingwood_log"
+              },
+              {
+                "item": "botania:glimmering_stripped_livingwood_log"
+              },
+              {
+                "item": "botania:dreamwood_log"
+              },
+              {
+                "item": "botania:stripped_dreamwood_log"
+              },
+              {
+                "item": "botania:glimmering_dreamwood_log"
+              },
+              {
+                "item": "botania:glimmering_stripped_dreamwood_log"
+              },
+              {
+                "item": "malum:runewood_log"
+              },
+              {
+                "item": "malum:stripped_runewood_log"
+              },
+              {
+                "item": "malum:revealed_runewood_log"
+              },
+              {
+                "item": "malum:exposed_runewood_log"
+              },
+              {
+                "item": "malum:soulwood_log"
+              },
+              {
+                "item": "malum:stripped_soulwood_log"
+              },
+              {
+                "item": "malum:revealed_soulwood_log"
+              },
+              {
+                "item": "malum:exposed_soulwood_log"
               }
             ],
             "amount": {
@@ -3091,6 +4375,225 @@
               },
               {
                 "item": "minecraft:flowering_azalea_leaves"
+              },
+              {
+                "item": "byg:aspen_leaves"
+              },
+              {
+                "item": "byg:baobab_leaves"
+              },
+              {
+                "item": "byg:blue_enchanted_leaves"
+              },
+              {
+                "item": "byg:pink_cherry_leaves"
+              },
+              {
+                "item": "byg:white_cherry_leaves"
+              },
+              {
+                "item": "byg:cika_leaves"
+              },
+              {
+                "item": "byg:cypress_leaves"
+              },
+              {
+                "item": "byg:ebony_leaves"
+              },
+              {
+                "item": "byg:ether_leaves"
+              },
+              {
+                "item": "byg:fir_leaves"
+              },
+              {
+                "item": "byg:green_enchanted_leaves"
+              },
+              {
+                "item": "byg:holly_berry_leaves"
+              },
+              {
+                "item": "byg:holly_leaves"
+              },
+              {
+                "item": "byg:jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_jacaranda_leaves"
+              },
+              {
+                "item": "byg:indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:lament_leaves"
+              },
+              {
+                "item": "byg:mahogany_leaves"
+              },
+              {
+                "item": "byg:mangrove_leaves"
+              },
+              {
+                "item": "byg:maple_leaves"
+              },
+              {
+                "item": "byg:red_maple_leaves"
+              },
+              {
+                "item": "byg:silver_maple_leaves"
+              },
+              {
+                "item": "byg:flowering_nightshade_leaves"
+              },
+              {
+                "item": "byg:nightshade_leaves"
+              },
+              {
+                "item": "byg:palm_leaves"
+              },
+              {
+                "item": "byg:flowering_palo_verde_leaves"
+              },
+              {
+                "item": "byg:palo_verde_leaves"
+              },
+              {
+                "item": "byg:pine_leaves"
+              },
+              {
+                "item": "byg:rainbow_eucalyptus_leaves"
+              },
+              {
+                "item": "byg:redwood_leaves"
+              },
+              {
+                "item": "byg:green_apple_skyris_leaves"
+              },
+              {
+                "item": "byg:skyris_leaves"
+              },
+              {
+                "item": "byg:willow_leaves"
+              },
+              {
+                "item": "byg:blooming_witch_hazel_leaves"
+              },
+              {
+                "item": "byg:witch_hazel_leaves"
+              },
+              {
+                "item": "byg:zelkova_leaves"
+              },
+              {
+                "item": "byg:withering_oak_leaves"
+              },
+              {
+                "item": "byg:araucaria_leaves"
+              },
+              {
+                "item": "byg:blue_spruce_leaves"
+              },
+              {
+                "item": "byg:brown_birch_leaves"
+              },
+              {
+                "item": "byg:brown_oak_leaves"
+              },
+              {
+                "item": "byg:brown_zelkova_leaves"
+              },
+              {
+                "item": "byg:joshua_leaves"
+              },
+              {
+                "item": "byg:ripe_joshua_leaves"
+              },
+              {
+                "item": "byg:orange_birch_leaves"
+              },
+              {
+                "item": "byg:orange_oak_leaves"
+              },
+              {
+                "item": "byg:orange_spruce_leaves"
+              },
+              {
+                "item": "byg:ripe_orchard_leaves"
+              },
+              {
+                "item": "byg:flowering_orchard_leaves"
+              },
+              {
+                "item": "byg:orchard_leaves"
+              },
+              {
+                "item": "byg:red_birch_leaves"
+              },
+              {
+                "item": "byg:red_oak_leaves"
+              },
+              {
+                "item": "byg:red_spruce_leaves"
+              },
+              {
+                "item": "byg:yellow_birch_leaves"
+              },
+              {
+                "item": "byg:yellow_spruce_leaves"
+              },
+              {
+                "item": "byg:firecracker_leaves"
+              },
+              {
+                "item": "hexcasting:akashic_leaves1"
+              },
+              {
+                "item": "hexcasting:akashic_leaves2"
+              },
+              {
+                "item": "hexcasting:akashic_leaves3"
+              },
+              {
+                "item": "ars_elemental:yellow_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:blue_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:purple_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:green_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:red_archwood_leaves"
+              },
+              {
+                "item": "ecologics:coconut_leaves"
+              },
+              {
+                "item": "ecologics:walnut_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves_natural"
+              },
+              {
+                "item": "hexerei:mahogany_leaves"
+              },
+              {
+                "item": "hexerei:willow_leaves"
+              },
+              {
+                "item": "malum:runewood_leaves"
+              },
+              {
+                "item": "malum:soulwood_leaves"
               }
             ],
             "amount": {
@@ -5234,6 +6737,225 @@
               },
               {
                 "item": "minecraft:flowering_azalea_leaves"
+              },
+              {
+                "item": "byg:aspen_leaves"
+              },
+              {
+                "item": "byg:baobab_leaves"
+              },
+              {
+                "item": "byg:blue_enchanted_leaves"
+              },
+              {
+                "item": "byg:pink_cherry_leaves"
+              },
+              {
+                "item": "byg:white_cherry_leaves"
+              },
+              {
+                "item": "byg:cika_leaves"
+              },
+              {
+                "item": "byg:cypress_leaves"
+              },
+              {
+                "item": "byg:ebony_leaves"
+              },
+              {
+                "item": "byg:ether_leaves"
+              },
+              {
+                "item": "byg:fir_leaves"
+              },
+              {
+                "item": "byg:green_enchanted_leaves"
+              },
+              {
+                "item": "byg:holly_berry_leaves"
+              },
+              {
+                "item": "byg:holly_leaves"
+              },
+              {
+                "item": "byg:jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_jacaranda_leaves"
+              },
+              {
+                "item": "byg:indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:lament_leaves"
+              },
+              {
+                "item": "byg:mahogany_leaves"
+              },
+              {
+                "item": "byg:mangrove_leaves"
+              },
+              {
+                "item": "byg:maple_leaves"
+              },
+              {
+                "item": "byg:red_maple_leaves"
+              },
+              {
+                "item": "byg:silver_maple_leaves"
+              },
+              {
+                "item": "byg:flowering_nightshade_leaves"
+              },
+              {
+                "item": "byg:nightshade_leaves"
+              },
+              {
+                "item": "byg:palm_leaves"
+              },
+              {
+                "item": "byg:flowering_palo_verde_leaves"
+              },
+              {
+                "item": "byg:palo_verde_leaves"
+              },
+              {
+                "item": "byg:pine_leaves"
+              },
+              {
+                "item": "byg:rainbow_eucalyptus_leaves"
+              },
+              {
+                "item": "byg:redwood_leaves"
+              },
+              {
+                "item": "byg:green_apple_skyris_leaves"
+              },
+              {
+                "item": "byg:skyris_leaves"
+              },
+              {
+                "item": "byg:willow_leaves"
+              },
+              {
+                "item": "byg:blooming_witch_hazel_leaves"
+              },
+              {
+                "item": "byg:witch_hazel_leaves"
+              },
+              {
+                "item": "byg:zelkova_leaves"
+              },
+              {
+                "item": "byg:withering_oak_leaves"
+              },
+              {
+                "item": "byg:araucaria_leaves"
+              },
+              {
+                "item": "byg:blue_spruce_leaves"
+              },
+              {
+                "item": "byg:brown_birch_leaves"
+              },
+              {
+                "item": "byg:brown_oak_leaves"
+              },
+              {
+                "item": "byg:brown_zelkova_leaves"
+              },
+              {
+                "item": "byg:joshua_leaves"
+              },
+              {
+                "item": "byg:ripe_joshua_leaves"
+              },
+              {
+                "item": "byg:orange_birch_leaves"
+              },
+              {
+                "item": "byg:orange_oak_leaves"
+              },
+              {
+                "item": "byg:orange_spruce_leaves"
+              },
+              {
+                "item": "byg:ripe_orchard_leaves"
+              },
+              {
+                "item": "byg:flowering_orchard_leaves"
+              },
+              {
+                "item": "byg:orchard_leaves"
+              },
+              {
+                "item": "byg:red_birch_leaves"
+              },
+              {
+                "item": "byg:red_oak_leaves"
+              },
+              {
+                "item": "byg:red_spruce_leaves"
+              },
+              {
+                "item": "byg:yellow_birch_leaves"
+              },
+              {
+                "item": "byg:yellow_spruce_leaves"
+              },
+              {
+                "item": "byg:firecracker_leaves"
+              },
+              {
+                "item": "hexcasting:akashic_leaves1"
+              },
+              {
+                "item": "hexcasting:akashic_leaves2"
+              },
+              {
+                "item": "hexcasting:akashic_leaves3"
+              },
+              {
+                "item": "ars_elemental:yellow_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:blue_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:purple_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:green_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:red_archwood_leaves"
+              },
+              {
+                "item": "ecologics:coconut_leaves"
+              },
+              {
+                "item": "ecologics:walnut_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves_natural"
+              },
+              {
+                "item": "hexerei:mahogany_leaves"
+              },
+              {
+                "item": "hexerei:willow_leaves"
+              },
+              {
+                "item": "malum:runewood_leaves"
+              },
+              {
+                "item": "malum:soulwood_leaves"
               }
             ],
             "amount": {
@@ -7716,6 +9438,225 @@
               },
               {
                 "item": "minecraft:flowering_azalea_leaves"
+              },
+              {
+                "item": "byg:aspen_leaves"
+              },
+              {
+                "item": "byg:baobab_leaves"
+              },
+              {
+                "item": "byg:blue_enchanted_leaves"
+              },
+              {
+                "item": "byg:pink_cherry_leaves"
+              },
+              {
+                "item": "byg:white_cherry_leaves"
+              },
+              {
+                "item": "byg:cika_leaves"
+              },
+              {
+                "item": "byg:cypress_leaves"
+              },
+              {
+                "item": "byg:ebony_leaves"
+              },
+              {
+                "item": "byg:ether_leaves"
+              },
+              {
+                "item": "byg:fir_leaves"
+              },
+              {
+                "item": "byg:green_enchanted_leaves"
+              },
+              {
+                "item": "byg:holly_berry_leaves"
+              },
+              {
+                "item": "byg:holly_leaves"
+              },
+              {
+                "item": "byg:jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_jacaranda_leaves"
+              },
+              {
+                "item": "byg:indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:flowering_indigo_jacaranda_leaves"
+              },
+              {
+                "item": "byg:lament_leaves"
+              },
+              {
+                "item": "byg:mahogany_leaves"
+              },
+              {
+                "item": "byg:mangrove_leaves"
+              },
+              {
+                "item": "byg:maple_leaves"
+              },
+              {
+                "item": "byg:red_maple_leaves"
+              },
+              {
+                "item": "byg:silver_maple_leaves"
+              },
+              {
+                "item": "byg:flowering_nightshade_leaves"
+              },
+              {
+                "item": "byg:nightshade_leaves"
+              },
+              {
+                "item": "byg:palm_leaves"
+              },
+              {
+                "item": "byg:flowering_palo_verde_leaves"
+              },
+              {
+                "item": "byg:palo_verde_leaves"
+              },
+              {
+                "item": "byg:pine_leaves"
+              },
+              {
+                "item": "byg:rainbow_eucalyptus_leaves"
+              },
+              {
+                "item": "byg:redwood_leaves"
+              },
+              {
+                "item": "byg:green_apple_skyris_leaves"
+              },
+              {
+                "item": "byg:skyris_leaves"
+              },
+              {
+                "item": "byg:willow_leaves"
+              },
+              {
+                "item": "byg:blooming_witch_hazel_leaves"
+              },
+              {
+                "item": "byg:witch_hazel_leaves"
+              },
+              {
+                "item": "byg:zelkova_leaves"
+              },
+              {
+                "item": "byg:withering_oak_leaves"
+              },
+              {
+                "item": "byg:araucaria_leaves"
+              },
+              {
+                "item": "byg:blue_spruce_leaves"
+              },
+              {
+                "item": "byg:brown_birch_leaves"
+              },
+              {
+                "item": "byg:brown_oak_leaves"
+              },
+              {
+                "item": "byg:brown_zelkova_leaves"
+              },
+              {
+                "item": "byg:joshua_leaves"
+              },
+              {
+                "item": "byg:ripe_joshua_leaves"
+              },
+              {
+                "item": "byg:orange_birch_leaves"
+              },
+              {
+                "item": "byg:orange_oak_leaves"
+              },
+              {
+                "item": "byg:orange_spruce_leaves"
+              },
+              {
+                "item": "byg:ripe_orchard_leaves"
+              },
+              {
+                "item": "byg:flowering_orchard_leaves"
+              },
+              {
+                "item": "byg:orchard_leaves"
+              },
+              {
+                "item": "byg:red_birch_leaves"
+              },
+              {
+                "item": "byg:red_oak_leaves"
+              },
+              {
+                "item": "byg:red_spruce_leaves"
+              },
+              {
+                "item": "byg:yellow_birch_leaves"
+              },
+              {
+                "item": "byg:yellow_spruce_leaves"
+              },
+              {
+                "item": "byg:firecracker_leaves"
+              },
+              {
+                "item": "hexcasting:akashic_leaves1"
+              },
+              {
+                "item": "hexcasting:akashic_leaves2"
+              },
+              {
+                "item": "hexcasting:akashic_leaves3"
+              },
+              {
+                "item": "ars_elemental:yellow_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:blue_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:purple_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:green_archwood_leaves"
+              },
+              {
+                "item": "ars_nouveau:red_archwood_leaves"
+              },
+              {
+                "item": "ecologics:coconut_leaves"
+              },
+              {
+                "item": "ecologics:walnut_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves"
+              },
+              {
+                "item": "occultism:otherworld_leaves_natural"
+              },
+              {
+                "item": "hexerei:mahogany_leaves"
+              },
+              {
+                "item": "hexerei:willow_leaves"
+              },
+              {
+                "item": "malum:runewood_leaves"
+              },
+              {
+                "item": "malum:soulwood_leaves"
               }
             ],
             "amount": {
