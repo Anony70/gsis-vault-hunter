@@ -6,11 +6,11 @@
       ],
       "restrictions": {
         "restricts": {
-          "HITTABILITY": true,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
           "CRAFTABILITY": true,
-          "ENTITY_INTERACTABILITY": true
+          "ENTITY_INTERACTABILITY": false
         }
       },
       "name": "Ender Storage",
@@ -247,8 +247,8 @@
       "restrictions": {
         "restricts": {
           "HITTABILITY": false,
-          "BLOCK_INTERACTABILITY": true,
-          "USABILITY": true,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
           "CRAFTABILITY": true,
           "ENTITY_INTERACTABILITY": false
         }
